@@ -47,7 +47,8 @@ while (opcao != -1) //Menu Principal
             int operacao = 0;
             while (operacao != -1) //Menu do cliente
             {
-                Console.WriteLine("Escolha a operação desejada:\n" +
+                Console.WriteLine($"Saldo atual: R${contas[conta].Saldo}\n" +
+                    "\nEscolha a operação desejada:\n" +
                     " 1 - Saque\n" +
                     " 2 - Depósito\n" +
                     " 3 - Transferência\n" +
