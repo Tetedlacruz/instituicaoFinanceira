@@ -1,7 +1,7 @@
 # instituicaoFinanceira
 Programação em C#
 
-Olá! Seja bem vindo ao READ ME do projeto controleContas desenvolvido por Diego Fialho, Bruce Henrique e Matheus Alves. Logo abaixo seguem as instruções de como utilizá-lo da melhor forma possível.
+Olá! Seja bem vindo ao READ ME do projeto controleContas desenvolvido por Bruce Henrique,Diego Fialho e Matheus Alves. Logo abaixo seguem as instruções de como utilizá-lo da melhor forma possível.
 
 O objetivo da aplicação é que você consiga realizar a criação de contas bancárias, depositar e sacar valores, verificar o saldo, além de realizar transferências financeiras, inclusive entre diferentes agências bancárias. Para utilizar as operações financeiras é necessário que o usuário possua uma conta ou, caso não tenha, crie uma conta cumprindo os requisitos abaixo:
 -	Possuir mais de 18 anos de idade;
