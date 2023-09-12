@@ -7,7 +7,7 @@ O objetivo da aplicação é que você consiga realizar a criação de contas ba
 -	Possuir mais de 18 anos de idade;
 -	Possuir um CPF válido;
 
-Vale ressaltar que caso o usuário informe o CPF com os caracteres(“.” e “-“) o programa fará automaticamente a remoção deles para validar e armazenar no banco de dados. O valor mínimo inicial de depósito para criar uma conta é de R$10,00 (dez reais) e a cada saque realizado pelo usuário.
+Vale ressaltar que caso o usuário informe o CPF com os caracteres(“.” e “-“) o programa fará automaticamente a remoção deles para validar e armazenar no banco de dados. O valor mínimo inicial de depósito para criar uma conta é de R$10,00 (dez reais).
 
 Como funciona o código:
 
