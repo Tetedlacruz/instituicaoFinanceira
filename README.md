@@ -9,6 +9,7 @@ O objetivo da aplicação é que você consiga realizar a criação de contas ba
 
 Vale ressaltar que caso o usuário informe o CPF com os caracteres(“.” e “-“) o programa fará automaticamente a remoção deles para validar e armazenar no banco de dados. O valor mínimo inicial de depósito para criar uma conta é de R$10,00 (dez reais).
 
+
 Como funciona o código:
 
 -	Classes e Métodos
